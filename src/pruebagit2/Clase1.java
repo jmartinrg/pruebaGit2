@@ -11,4 +11,5 @@ package pruebagit2;
  */
 public class Clase1 {
     
+    private double atributo1;
 }
